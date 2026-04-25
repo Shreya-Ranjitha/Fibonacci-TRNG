@@ -138,11 +138,7 @@ Sampling intervals follow Fibonacci timing instead of fixed clock:
 - Bias reduction techniques
 - Optimization for real-time cryptographic systems
 
----
 
-## 📚 References
-
-Refer to the original research document for detailed citations and prior work analysis.
 
 ---
 
@@ -155,6 +151,3 @@ Refer to the original research document for detailed citations and prior work an
 
 ---
 
-
-## ⭐ Acknowledgment
-This work was developed as part of academic research in hardware security and embedded systems.
